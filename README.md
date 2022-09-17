@@ -6,11 +6,10 @@ AYTGo is an open world mobile game where you can catch and battle them with your
 ### Platforms
 AYTGo currently only supports **Android**, I am working on a Linux and Windows version for those who are using Windows Phone or Ubuntu Touch. Never heard of a Linux Phone?
 Watch this!
-<iframe width="1285" height="480" src="https://www.youtube.com/embed/GSudn0qB6u0" title="Are Linux Smartphones about to KILL Android?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/GSudn0qB6u0" title="Are Linux Smartphones about to KILL Android?"
 
 &
-
-<iframe width="1285" height="480" src="https://www.youtube.com/embed/dk1nwrA0yJE" title="The Linux Phone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/dk1nwrA0yJE" title="The Linux Phone"
 
 ### API's
 AYTGo uses 
